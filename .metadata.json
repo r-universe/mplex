@@ -1,0 +1,10 @@
+[
+  {
+    "package": "multigraph",
+    "oncran": true
+  },
+  {
+    "package": "multiplex",
+    "oncran": true
+  }
+]

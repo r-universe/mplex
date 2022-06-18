@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "multigraph"]
+	path = multigraph
+	url = https://github.com/mplex/multigraph
+	shallow = true
+	registered = true
+[submodule "multiplex"]
+	path = multiplex
+	url = https://github.com/mplex/multiplex
+	shallow = true
+	registered = true
